@@ -7,4 +7,8 @@ public class Cart {
     //total
 
     //prome code
+
+    //deals
+
+    //new changes on cart
 }
